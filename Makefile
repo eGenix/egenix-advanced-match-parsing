@@ -1,7 +1,7 @@
 all:
 	echo "Please check the Makefile for available targets"
 
-VERSION := '0.1'
+VERSION := '1.0.0'
 TAG := 'egenix-advanced-match-parsing-$(VERSION)'
 
 ### Prepare the virtual env
