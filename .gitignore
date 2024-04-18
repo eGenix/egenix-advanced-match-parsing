@@ -6,3 +6,4 @@ build
 dist
 pyenv
 tmp
+*.code-workspace
