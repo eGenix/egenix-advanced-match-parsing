@@ -17,6 +17,13 @@ The various `match_*.py` files have the examples used in the talk and include so
 
 The `bench_match.py` file defines define micro benchmarks used in the talk. This is based on the `micro_benchmark.py` module, which will soon be released as separate package on PyPI.
 
+## Slides
+
+PDF slides are available in the `slides/` directory.
+
+- PyDDF-Talk-Advanced-Parsing-with-Match-Statement-2024-04-17.pdf points to the version which was presented at the Python Meeting Düsseldorf on 2024-04-17
+  - This has a few minor errors found during the talk which will be fixed in an updated version of the talk.
+
 ## Conference and Events
 
 This talk was or will be held at the following events:
