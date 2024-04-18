@@ -1,4 +1,5 @@
-## Talk Resources "Advanced parsing of structured data using Python's new match statement"
+
+## Resources for the eGenix Talk "Advanced parsing of structured data using Python's new match statement"
 
 This talk was or will be held at the following events:
 - [Python Meeting Düsseldorf](https://pyddf.de/) on 2024-04-17
