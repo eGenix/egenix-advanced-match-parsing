@@ -1,0 +1,8 @@
+*~
+*.bak
+__pycache__
+*.egg-info
+build
+dist
+pyenv
+tmp
