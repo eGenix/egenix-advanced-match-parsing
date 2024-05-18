@@ -52,10 +52,14 @@ The micro benchmark package uses the [pyperf package](https://pypi.org/project/p
 
 ## Slides
 
-PDF slides are available in the `slides/` directory.
+PDF slides of the talk are available for download:
 
-- PyDDF-Talk-Advanced-Parsing-with-Match-Statement-2024-04-17.pdf points to the version which was presented at the Python Meeting Düsseldorf on 2024-04-17
-  - This has a few minor errors found during the talk which will be fixed in an updated version of the talk.
+- [PyDDF-Talk-Advanced-Parsing-with-Match-Statement-2024-04-17.pdf](https://downloads.egenix.com/python/PyDDF-Talk-Advanced-Parsing-with-Match-Statement.pdf) is the PDF with the version which was presented at the Python Meeting Düsseldorf on 2024-04-17.
+  - This has a few minor errors corrected which were found during the talk.
+
+- [PyCon-Italia-2024-Talk-Advanced-Parsing-with-Match-Statement.pdf](https://downloads.egenix.com/python/PyCon-Italia-2024-Talk-Advanced-Parsing-with-Match-Statement.pdf) points to the (current draft) version of the talk which will be presented at PyCon Italia 2024 on 2024-05-25.
+
+These are released under the same license as the other files in this directory.
 
 ## Conference and Events
 
