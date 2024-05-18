@@ -40,13 +40,15 @@ if __name__ == '__main__':
     micro_benchmark.run(globals())
 ```
 
-Then run this using Python and immediate results:
+Then run this using Python and see immediate results:
 
 ```bash
 > python3 bench_example.py
 .....................
 bench_match_int: Mean +- std dev: 107 ns +- 5 ns
 ```
+
+The micro benchmark package uses the [pyperf package](https://pypi.org/project/pyperf/) to run the benchmarks, so you get all options and features available with perf (plus a few more), to work with these results.
 
 ## Slides
 
