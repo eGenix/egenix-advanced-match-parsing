@@ -54,12 +54,15 @@ The micro benchmark package uses the [pyperf package](https://pypi.org/project/p
 
 PDF slides of the talk are available for download:
 
-- [PyDDF-Talk-Advanced-Parsing-with-Match-Statement-2024-04-17.pdf](https://downloads.egenix.com/python/PyDDF-Talk-Advanced-Parsing-with-Match-Statement.pdf) PDF version which was presented at the Python Meeting Düsseldorf on 2024-04-17.
+- [PyDDF-Talk-Advanced-Parsing-with-Match-Statement-2024-04-17.pdf](https://downloads.egenix.com/python/PyDDF-Talk-Advanced-Parsing-with-Match-Statement.pdf)
+  - PDF version which was presented at the Python Meeting Düsseldorf on 2024-04-17.
   - This has a few minor errors corrected which were found during the talk.
 
-- [PyCon-Italia-2024-Talk-Advanced-Parsing-with-Match-Statement.pdf](https://downloads.egenix.com/python/PyCon-Italia-2024-Talk-Advanced-Parsing-with-Match-Statement.pdf) PDF version of the talk which was presented at PyCon Italia 2024 on 2024-05-25.
+- [PyCon-Italia-2024-Talk-Advanced-Parsing-with-Match-Statement.pdf](https://downloads.egenix.com/python/PyCon-Italia-2024-Talk-Advanced-Parsing-with-Match-Statement.pdf)
+  - PDF version of the talk which was presented at PyCon Italia 2024 on 2024-05-25.
 
-- [PyCon-Sweden-2024-Talk-Advanced-Parsing-with-Match-Statement.pdf](https://downloads.egenix.com/python/PyCon-Sweden-2024-Talk-Advanced-Parsing-with-Match-Statement.pdf) PDF version of the (current draft) version of the talk which will be presented at PyCon Sweden 2024 on 2024-11-15.
+- [PyCon-Sweden-2024-Talk-Advanced-Parsing-with-Match-Statement.pdf](https://downloads.egenix.com/python/PyCon-Sweden-2024-Talk-Advanced-Parsing-with-Match-Statement.pdf)
+  - PDF version of the (current draft) version of the talk which will be presented at PyCon Sweden 2024 on 2024-11-15.
 
 These are released under the same license as the other files in this directory.
 
@@ -68,7 +71,7 @@ These are released under the same license as the other files in this directory.
 This talk was or will be held at the following events:
 - [Python Meeting Düsseldorf](https://pyddf.de/) on 2024-04-17
 - [PyCon Italia 2024](https://2024.pycon.it/en/event/advanced-parsing-of-structured-data-using-pythons-new-match-statement) on 2024-05-25
-- [PyCon Sweden 2024](https://www.pycon.se/)
+- [PyCon Sweden 2024](https://www.pycon.se/) on 2024-11-15
 
 ## Contact
 
