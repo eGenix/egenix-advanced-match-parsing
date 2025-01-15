@@ -62,7 +62,10 @@ PDF slides of the talk are available for download:
   - PDF version of the talk which was presented at PyCon Italia 2024 on 2024-05-25.
 
 - [PyCon-Sweden-2024-Talk-Advanced-Parsing-with-Match-Statement.pdf](https://downloads.egenix.com/python/PyCon-Sweden-2024-Talk-Advanced-Parsing-with-Match-Statement.pdf)
-  - PDF version of the (current draft) version of the talk which will be presented at PyCon Sweden 2024 on 2024-11-15.
+  - PDF version of the talk which was presented at PyCon Sweden 2024 on 2024-11-15.
+
+- [FOSDEM-2025-Talk-Advanced-Parsing-with-Match-Statement.pdf](https://downloads.egenix.com/python/FOSDEM-2025-Talk-Advanced-Parsing-with-Match-Statement.pdf)
+  - PDF version of the (current draft) version of the talk which will be presented at FOSDEM 2025 Python Devroom on 2025-02-02.
 
 These are released under the same license as the other files in this directory.
 
@@ -72,6 +75,7 @@ This talk was or will be held at the following events:
 - [Python Meeting Düsseldorf](https://pyddf.de/) on 2024-04-17
 - [PyCon Italia 2024](https://2024.pycon.it/en/event/advanced-parsing-of-structured-data-using-pythons-new-match-statement) on 2024-05-25
 - [PyCon Sweden 2024](https://www.pycon.se/) on 2024-11-15
+- [FOSDEM 2025 Python Devroom](https://fosdem.org/2025/schedule/track/python/) on 2025-02-02
 
 ## Contact
 
